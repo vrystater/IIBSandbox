@@ -1,0 +1,13 @@
+
+
+Importing file: C:\utils\IBM\IIBT10\workspace\Echo\Echo.wsdl
+
+The WSDL import will proceed with bindings EchoHttpBinding.
+Creating wsdl schema document for platform:/resource/Echo/Echo.wsdl.
+Parsing wsdl binding {http://Echo}EchoHttpBinding.
+Parsing wsdl binding input operation.
+Parsing wsdl binding output operation.
+Processing doc style for operation operation.
+Populating WSDL schema Echo.xsd.
+Creating file Echo.xsd in the workspace.
+Copying source WSDL Echo.wsdl to Echo.wsdl.
